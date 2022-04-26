@@ -6,7 +6,7 @@ The list of packages needed is located in progressed report. These packages are 
 
 Content of Repo
 
-1. ProjectFinal.py is the UI for the system. 
+1.ProjectFinal.py is the UI for the system. 
 
 
 2.COMP3610Projects contains: ProjectFinal.py file, datasets, and jupyter file (incase needed) 
