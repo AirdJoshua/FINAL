@@ -5,3 +5,4 @@ The list of packages needed is located in progressed report. These packages are 
 
 ProjectFinal.py is the UI for the system. 
 COMP3610Projects contains: ProjectFinal.py file, datasets, and jupyte (incase needed) 
+**Reason in seperate folder is at the time I was told that links to dataset was sent via progress report.**
